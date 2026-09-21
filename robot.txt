@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://project1-one-beryl-19.vercel.app/sitemap.xml
